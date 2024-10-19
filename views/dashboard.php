@@ -37,7 +37,7 @@
                 </form>
             </div>
         </nav>
-
+        <!-- comment -->
         <div class="row justify-content-center">
             <div class="col-6">
                 <h2 class="text-center">Products</h2>
